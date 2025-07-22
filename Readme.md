@@ -1,4 +1,4 @@
-<span style="font-size: 20px;">TPrerequired packages: pylibCZIrw, fastddm, lmfit</span>
+<span style="font-size: 20px;">Required packages: pylibCZIrw, fastddm, lmfit, scipy, skimage</span>
 
 <span style="font-size: 20px;">Example of run py file:</span>
 1. run py file;
